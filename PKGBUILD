@@ -1,4 +1,4 @@
-# Maintainer: Agnésa Théo <seigneurfuo@gmail.com
+# Maintainer: Agnésa Théo <seigneurfuo@gmail.com>
 
 pkgname=logitech-m560-buttons-support
 pkgver=1.1
