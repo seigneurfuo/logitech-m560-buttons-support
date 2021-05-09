@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Type=Application
+Exec=xbindkeys -f /etc/xbindkeys/logitech-m560-buttons-support.conf
+Name[fr_FR]=Support des boutons suivant et précédent pour la souris Logitech M560
+Comment[fr_FR]=Support des boutons suivant et précédent pour la souris Logitech M560
+StartupNotify=false
+Terminal=false
+Hidden=false
